@@ -1,4 +1,0 @@
-<a href="instagram://user?username=AgharkarJewellers">instagram://user?username=AgharkarJewellers</a><br>
-					<a href="user?username=AgharkarJewellers">user?username=AgharkarJewellers</a><br>
-					<a href="@AgharkarJewellers">@AgharkarJewellers</a><br>
-					<a href="username=AgharkarJewellers">username=AgharkarJewellers</a><br>

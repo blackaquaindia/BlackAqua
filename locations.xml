@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+        <channel>
+
+                <title>Locations</title>
+                <description>Top 100 Locations</description>
+                <link>http://example.org/</link>
+                <lastBuildDate>Sun, 27 May 2018 05:00:00 IST</lastBuildDate>
+                <managingEditor>blackaquaindia@gmail.com (Abhijeet Agharkar)</managingEditor>
+
+                <item>
+                        <title>Agartala, India</title>
+                        <link>Agartala, India</link>
+                        <guid isPermaLink="false">urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</guid>
+                        <pubDate>Sat, 13 Dec 2003 18:30:02 GMT</pubDate>
+                        <description>Agartala, India</description>
+                </item>
+
+        </channel>
+</rss>

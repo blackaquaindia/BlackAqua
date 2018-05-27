@@ -1,42 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-        <channel>
-
-                <title>Locations</title>
-                <description>Top 100 Locations</description>
-                <link>http://example.org/</link>
-                <lastBuildDate>Sun, 27 May 2018 05:00:00 IST</lastBuildDate>
-                <managingEditor>blackaquaindia@gmail.com (Abhijeet Agharkar)</managingEditor>
-
-                <item>
-                        <title>rjproductions_official</title>
-                        <link>rjproductions_official</link>
-                        <description>rjproductions_official</description>
-                </item>
-                
-                <item>
-                        <title>brahma_bull23</title>
-                        <link>brahma_bull23</link>
-                        <description>brahma_bull23</description>
-                </item>
-                
-                <item>
-                        <title>lifeblogger_harpreet</title>
-                        <link>lifeblogger_harpreet</link>
-                        <description>lifeblogger_harpreet</description>
-                </item>
-        
-                <item>
-                        <title>paragjalgaonkar</title>
-                        <link>paragjalgaonkar</link>
-                        <description>paragjalgaonkar</description>
-                </item>
-                
-                <item>
-                        <title>thesideprojectadvertising</title>
-                        <link>thesideprojectadvertising</link>
-                        <description>thesideprojectadvertising</description>
-                </item>
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>Locations</title>
+	<description>Top 100 Locations</description>
+	<link>http://www.blackaqua.in/</link>
+	<lastBuildDate>Sun, 27 May 2018 05:00:00 IST</lastBuildDate>
+	<managingEditor>blackaquaindia@gmail.com (Abhijeet Agharkar)</managingEditor>
+	
+  <item>
+    <title>My Sweet Home</title>
+    <link>Kerala</link>
+    <description>Jodhpur City, Rajasthan, India</description>
+  </item>
+  <item>
+    <title>Delhi</title>
+    <link>Manipur</link>
+    <description>Guwahati, Assam</description>
+  </item>
+  <item>
+    <title>Bangalore, India</title>
+    <link>West Bengal</link>
+    <description>Kolkata</description>
+  </item>
+  <item>
+    <title>West Bengal</title>
+    <link>Chembur</link>
+    <description>Surat, Gujarat</description>
+  </item>
+  <item>
+    <title>Silvassa</title>
+    <link>Telangana</link>
+    <description>Ahmedabad, India</description>
+  </item>
                 
         </channel>
 </rss>

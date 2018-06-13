@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Locations</title>
+	<description>Top 100 Locations</description>
+	<link>http://www.blackaqua.in/</link>
+	<lastBuildDate>Sun, 27 May 2018 05:00:00 IST</lastBuildDate>
+	<managingEditor>blackaquaindia@gmail.com (Abhijeet Agharkar)</managingEditor>
+	
+  <item>
+    <title>My Sweet Home</title>
+    <link>Kerala</link>
+    <description>Jodhpur City, Rajasthan, India</description>
+  </item>
+</channel>
+</rss>

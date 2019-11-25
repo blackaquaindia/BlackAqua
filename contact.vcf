@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:2.1
+FN:Black Aqua India Private Limited
+N:Private Limited;Black Aqua India;;;
+TEL;X-Official:9595696595
+TEL;X-Emergency:9405323405
+EMAIL;WORK:blackaquaindia@gmail.com
+EMAIL;WORK:blackaqua.in@gmail.com
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:;;=42=6C=61=63=6B=20=41=71=75=61=20=49=6E=64=69=61=20=50=72=69=76=61=74=
+=65=2C=0A=53=68=6F=70=20=4E=6F=2E=30=34=2C=20=31=73=74=20=46=6C=6F=6F=
+=72=2C=20=46=6C=6F=72=61=20=48=65=69=67=68=74=73=2C=20=50=61=6E=63=68=
+=61=76=61=74=69=2C=20=41=6D=72=75=74=64=68=61=6D=2C=20=4E=61=73=68=69=
+=6B=2C=20=4D=61=68=61=72=61=73=68=74=72=61=2C=20=34=32=32=30=30=36;;;;
+URL:www.blackaqua.in
+X-ANDROID-CUSTOM:vnd.android.cursor.item/contact_event;2012-01-12;0;Founded;;;;;;;;;;;;
+END:VCARD
